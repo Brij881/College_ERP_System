@@ -8,7 +8,14 @@ Python and Django need to be installed
 ```bash
 pip install django
 ```
-
+REST Framework
+```bash
+pip install djangorestframework
+```
+Djoser
+```bash
+pip install djoser
+```
 ## Usage
 
 Go to the College-ERP folder and run
